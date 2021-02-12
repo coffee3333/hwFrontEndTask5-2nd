@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #F0F0F0;
+}
+
+.main-container{
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.article-wrapper{
+	border: 1px solid gray;
+	padding: 20px;
+	margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
